@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beshoy-R a software developer who is enthusiastic about all things about programming.
+- 👋 Hi, I’m @Beshoy-R .. a software developer who is enthusiastic about all things about programming.
 
 I have built projects using a range of technologies and platforms, including but not limited to mobile applications, embedded systems, and desktop applications, 
 both as a student and for customers.
